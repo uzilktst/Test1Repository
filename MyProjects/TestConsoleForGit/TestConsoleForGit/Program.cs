@@ -15,6 +15,7 @@ namespace TestConsoleForGit
             //
             // This is a very important change 11:28
             //
+            Console.WriteLine("This is a change 11:29");
         }
     }
 }
