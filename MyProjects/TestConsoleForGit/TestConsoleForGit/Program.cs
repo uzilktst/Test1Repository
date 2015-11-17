@@ -11,6 +11,10 @@ namespace TestConsoleForGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world and git-hub");
+
+            //
+            // This is a very important change 11:28
+            //
         }
     }
 }
