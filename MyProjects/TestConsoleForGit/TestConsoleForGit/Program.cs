@@ -16,6 +16,10 @@ namespace TestConsoleForGit
             // This is a very important change 11:28
             //
             Console.WriteLine("This is a change 11:29");
+            //
+            //
+            //
+            Console.WriteLine("Change from test2repository  22-Nov-2015 09:24");
         }
     }
 }
