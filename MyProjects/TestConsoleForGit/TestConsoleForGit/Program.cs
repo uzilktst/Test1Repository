@@ -20,6 +20,11 @@ namespace TestConsoleForGit
             //
             //
             Console.WriteLine("Change from test2repository  22-Nov-2015 09:24");
+            //
+            //
+            //
+            Console.WriteLine("Change from test1repository in Uzi_brnch1  22-Nov-2015 09:44 UZ-1");
+
         }
     }
 }
