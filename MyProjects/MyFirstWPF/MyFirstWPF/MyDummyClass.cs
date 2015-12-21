@@ -10,7 +10,7 @@ namespace MyFirstWPF
     {
         public int Test1()
         {
-            return 8;
+            return 10;
         }
     }
 }
