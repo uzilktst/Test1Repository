@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MyFirstWPF
+{
+    class MyDummyClass
+    {
+        public int Test1()
+        {
+<<<<<<< HEAD
+            return 10;
+=======
+            return 250;
+>>>>>>> 0a18d42f5fd95d8275085c6770419c1b36d072fb
+        }
+    }
+}
