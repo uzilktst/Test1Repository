@@ -9,8 +9,8 @@ namespace MyFirstWPF
     class MyDummyClass
     {
         public int Test1()
-        {
-            return 10;
+        {          
+            return 3788;
         }
     }
 }
