@@ -21,19 +21,9 @@ namespace DummyConsole
             test = sp3.Days;
             test = sp4.Days;
 
-            // This is a change 1
+            DateTime r3 = default(DateTime);
 
-            // This is change 2
-
-            // This is change 3  - also added spaces in the above lines
-
-            // This is change 4
-
-            // This is change 5
-
-            // This is change  A7 == > 1
-
-            // This is change  A7 == > 2
+            Console.WriteLine(r3);
 
 
         }
